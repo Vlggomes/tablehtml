@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+    
+}
+table {
+    background-color: crimson;
+    border: 5px yellow solid;
+    text-align: center;
+    width: 600px;
+    height: 200px;
+        
+}
